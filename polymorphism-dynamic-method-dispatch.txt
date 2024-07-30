@@ -1,0 +1,12 @@
+// Structure of the java project
+
+Storing files in a package; Package inside a package;
+
+Polymorphism - one object behave in diff way in diff situation
+// based on how u create diff instance
+
+2 Types of Polymorphism1:
+1. Compile time Polymorphism (early binding);   ---> overloading
+2. Runtime Polymorphism (late binding);         ---> overriding
+
+// Dunno which method will be called - all the method overrides in runtime polymorphism - hence this is called dynamic method dispatch
