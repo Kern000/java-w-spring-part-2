@@ -1,3 +1,5 @@
+package inheritance;
+
 // import java.lang.*;  // alr imported by default, gives use of System
 // import tools.*;      // * refers to all file, NOT all folders (nested means need to go in further)
 

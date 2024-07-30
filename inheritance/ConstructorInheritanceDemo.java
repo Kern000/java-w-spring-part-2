@@ -1,3 +1,5 @@
+package inheritance;
+
 class A extends Object {
 
     // every class in Java extends the Object class
