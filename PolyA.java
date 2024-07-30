@@ -12,6 +12,7 @@ public class PolyA {
         obj1.show();
         obj1 = new PolyC();
         obj1.show();
+        // This is dynamic method dispatch
     }
     
 }
