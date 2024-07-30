@@ -1,0 +1,3 @@
+// Structure of the java project
+
+Storing files in a package; Package inside a package;

@@ -1,3 +1,5 @@
+import tools.VeryAdvCalc;
+
 public class InheritanceDemo {
     
     public static void main (String a[]){
@@ -20,6 +22,7 @@ public class InheritanceDemo {
 // child class call method - search own, then search one level up first, then another level up if dun hv in tt level
 // Ambiguity problem -> e.g. both A and B (parents) have same name method, if child call that method (wun noe which one is being called) - Java does not support multiple inheritance (later on use interface)
 
+// When the java file is in other package, need to import
 
 
 
