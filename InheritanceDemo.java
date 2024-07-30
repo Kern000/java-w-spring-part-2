@@ -1,4 +1,10 @@
+// import java.lang.*;  // alr imported by default, gives use of System
+// import tools.*;      // * refers to all file, NOT all folders (nested means need to go in further)
+
 import tools.VeryAdvCalc;
+
+// practice of reversing domain name to name the package to get a unique name for package;
+// e.g. package com.google.calculation;
 
 public class InheritanceDemo {
     
@@ -23,6 +29,8 @@ public class InheritanceDemo {
 // Ambiguity problem -> e.g. both A and B (parents) have same name method, if child call that method (wun noe which one is being called) - Java does not support multiple inheritance (later on use interface)
 
 // When the java file is in other package, need to import
+// What ever class u use in java, belongs to a package
+// System belongs to a package too; Every java file will have java.lang.* imported by default;
 
 
 
