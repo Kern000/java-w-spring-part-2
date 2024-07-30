@@ -1,7 +1,5 @@
 package other;
 
-
-
 public class AccessModifierPractice {
     
     int packageVariable = 3;                // without access modifier the default is package access
